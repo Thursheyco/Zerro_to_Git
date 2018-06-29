@@ -32,7 +32,10 @@ cd ./Desktop
 
 #####Parent Diirectory
 
+To access the parent directory use the
 ```..``` prefix for parent directory
+
+Example: 
 
 ```shell
 cd ..    #Goes to the parent folder/directory
