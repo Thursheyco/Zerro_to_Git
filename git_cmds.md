@@ -14,6 +14,15 @@ git init
 git add <path>
 git status
 ```
+Git Tools
+
+```shell
+git log
+git blame <path>
+git reflog
+git reset --hard <sha_id>
+git checkout <branch_name>
+```
 
 Use often, Common Commands
 
