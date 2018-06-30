@@ -1,3 +1,16 @@
+#How to Install
+
+First, Clone the repo down to your local environment. This will download the files to your current working directory in terminal, so make certain to ```cd``` to a desireable directory.
+
+#Best Practices
+
+Use Feature Branch Development w/ the GitHub Workflow!
+https://guides.github.com/introduction/flow/
+
+```shell
+cd ~/Desktop
+git clone https://github.com/Thursheyco/Zerro_to_Git.git
+```
 ##Common Commands
 
 ```shell
